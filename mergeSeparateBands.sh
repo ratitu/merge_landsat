@@ -1,2 +1,2 @@
 #!/bin/bash
-for i in *B1.TIF; do ./run.sh; done
+for i in *B1.TIF; do ./run.sh $i; done
